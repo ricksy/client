@@ -12,5 +12,5 @@ A simple client ripped off of the examples of
 ## Usage ##
 `./client_sub`  will connect to the server 
 <opc.tcp://opcuademo.sterfive.com:26543> from (this list of publicly avaliable
- OPC UA servers) [https://github.com/node-opcua/node-opcua/wiki/
+ OPC UA servers)[https://github.com/node-opcua/node-opcua/wiki/
 publicly-available-OPC-UA-Servers-and-Clients]
